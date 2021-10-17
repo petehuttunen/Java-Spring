@@ -1,3 +1,3 @@
 # Java-Spring
 
-Lisää tulossa myöhemmin
+Lisää tulossa myöhemmin / This will be updated soon
