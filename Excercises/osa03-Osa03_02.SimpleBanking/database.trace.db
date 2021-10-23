@@ -1,0 +1,12 @@
+2021-07-29 13:47:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CLIENT" not found; SQL statement:
+select client0_.id as id1_1_, client0_.account_id as account_3_1_, client0_.name as name2_1_ from client client0_ [42102-197]
+2021-07-29 13:47:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CLIENT" not found; SQL statement:
+select client0_.id as id1_1_, client0_.account_id as account_3_1_, client0_.name as name2_1_ from client client0_ [42102-197]
+2021-07-29 13:47:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CLIENT" not found; SQL statement:
+select client0_.id as id1_1_, client0_.account_id as account_3_1_, client0_.name as name2_1_ from client client0_ [42102-197]
+2021-07-29 13:47:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CLIENT" not found; SQL statement:
+select client0_.id as id1_1_, client0_.account_id as account_3_1_, client0_.name as name2_1_ from client client0_ [42102-197]
