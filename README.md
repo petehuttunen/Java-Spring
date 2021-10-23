@@ -1,3 +1,3 @@
 # Java-Spring
 
-Lisää tulossa myöhemmin / This will be updated soon
+Lisätty osa kurssin aikana tehdyistä harjoituksista / Added some of the completed exercises during the course
