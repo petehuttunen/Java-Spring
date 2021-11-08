@@ -1,3 +1,3 @@
 # Java-Spring
 
-Lisätty osa kurssin aikana tehdyistä harjoituksista / Added some of the completed exercises during the course
+Lisätty kurssin aikana tehdyt harjoitukset / Added all the completed exercises during the course
